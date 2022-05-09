@@ -1,0 +1,1 @@
+alert (la entrada es gratis, la salida, vemos...);
